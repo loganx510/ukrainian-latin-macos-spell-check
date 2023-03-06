@@ -1,0 +1,1 @@
+# ukrainian-latin-macos-spell-check
